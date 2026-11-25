@@ -1,0 +1,6 @@
+# Payment and backing channels. Nothing is connected yet.
+# Uncomment the matching line ONLY after the live payment account or link is active.
+#
+# github: [mjeanhudson-dev]
+# polar: mjeanhudson-dev
+# custom: ["https://buy.stripe.com/REPLACE_WITH_REAL_PAYMENT_LINK"]
